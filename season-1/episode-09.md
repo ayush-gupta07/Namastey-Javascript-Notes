@@ -130,4 +130,3 @@ function n() {
 
 ---
 
-Let me know when you're ready with Episode 10!
