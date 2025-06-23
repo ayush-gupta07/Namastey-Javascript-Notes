@@ -39,7 +39,7 @@ This repository is your one-stop destination to understand JavaScript from scrat
 - [Episode 11: setTimeout & Closures Interview Question](./season-1/EP_11_SetTimeout_Closures_Interview.md)
 - [Episode 12: Crazy JS Interview Questions](./season-1/EP_12_Crazy_JS_Interview_Closures.md)
 - [Episode 13: First-Class & Anonymous Functions](./season-1/EP_13_First_Class_Functions_Anonymous.md)
-- [Episode 14: Callback Functions & Event Listeners](./season-1/EP_14_Callback_Functions_Event.md)
+- [Episode 14: Callback Functions & Event Listeners](./season-1/EP_14_Callback_Functions_Event_Listeners.md)
 - [Episode 15: Async JS & Event Loop](./season-1/EP_15_Async_JS_Event_Loop.md)
 - [Episode 16: JS Engine & V8](./season-1/EP_16_JS_Engine_V8.md)
 - [Episode 17: Trust Issues with setTimeout](./season-1/EP_17_Trust_Issues_setTimeout.md)
