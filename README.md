@@ -29,7 +29,7 @@ This repository is your one-stop destination to understand JavaScript from scrat
 - [Episode 1: Execution Context](./season-1/EP_01_Execution_Context.md)
 - [Episode 2: How JS is Executed](./season-1/EP_02_How_JS_Executed.md)
 - [Episode 3: Hoisting in JS](./season-1/EP_03_Hoisting.md)
-- [Episode 4: Functions and Variable Environments](./season-1/EP_04_Functions_and_Variables_Environment.md)
+- [Episode 4: Functions and Variable Environments](./season-1/EP_04_Functions_and_Variables.md)
 - [Episode 5: Window and This](./season-1/EP_05_Window_and_This.md)
 - [Episode 6: Undefined vs Not Defined](./season-1/EP_06_Undefined_JS.md)
 - [Episode 7: Scope and Lexical Environment](./season-1/EP_07_Scope_and_Lexical_Environment.md)
