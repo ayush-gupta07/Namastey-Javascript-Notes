@@ -79,12 +79,12 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 ## 📌 What's Inside Each Episode?
 
-- 📘 Topic Introduction & Explanation  
-- 💡 Detailed, clean code examples  
-- 🧪 Real-time JS behaviors & output  
-- ❓ Thought-provoking interview questions  
-- ✅ Practical use-cases & edge case notes  
-- 🧼 Best practices to follow
+- 📘 Topic Introduction & Explanation.  
+- 💡 Detailed, clean code examples.  
+- 🧪 Real-time JS behaviors & output.  
+- ❓ Thought-provoking interview questions.  
+- ✅ Practical use-cases & edge case notes.  
+- 🧼 Best practices to follow.
 
 ---
 
