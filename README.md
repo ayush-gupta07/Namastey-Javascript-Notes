@@ -70,10 +70,10 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 ## 🧠 Who Is This For?
 
-- ✅ **Beginners** starting JavaScript from scratch  
-- ✅ **Developers** brushing up for interviews  
-- ✅ **Students** preparing for technical rounds  
-- ✅ **Anyone** curious to understand the "why" behind the JS magic
+- ✅ **Beginners** starting JavaScript from scratch.
+- ✅ **Developers** brushing up for interviews.
+- ✅ **Students** preparing for technical rounds.  
+- ✅ **Anyone** curious to understand the "why" behind the JS magic.
 
 ---
 
