@@ -162,14 +162,6 @@ This feature is foundational for:
 
 ---
 
-### 📚 Related Topics to Explore Next
-- Higher-Order Functions
-- Closures
-- Callback Functions
-- Arrow Functions
-
----
-
 ## 💬 Interview Prep Q&A
 
 **Q: What’s the main difference between function statement and expression?**  
