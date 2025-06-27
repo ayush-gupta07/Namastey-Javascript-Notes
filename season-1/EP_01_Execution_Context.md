@@ -83,3 +83,12 @@ console.log(a); // Prints 10
 
 ### 5. What is the difference between synchronous and asynchronous code?
 **Answer:** Synchronous code runs in sequence line by line. Asynchronous code (explored later) allows certain operations (like network calls) to run without blocking the main thread.
+
+---
+
+## 🧾 Summary
+
+- JavaScript code runs inside an **Execution Context**, which contains two parts: Memory (where variables/functions are stored) and Code (which executes the code).
+- The execution has two phases: **memory creation** and **code execution**.
+- JavaScript is **single-threaded** and **synchronous**, meaning it runs one command at a time in a defined order.
+- Understanding Execution Context is crucial for grasping advanced concepts like hoisting, closures, scope, and async handling.
