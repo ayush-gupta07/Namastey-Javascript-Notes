@@ -151,6 +151,7 @@ CB Timeout
 This proves that:
 - Even if `setTimeout` has `0ms` delay, it still goes to the **Callback Queue**.
 - **Microtasks** (like `.then()`) have **higher priority** and get executed **first**.
+Demo (/assets/microtask.gif)
 
 ---
 
@@ -187,6 +188,17 @@ This proves that:
 - Tasks with higher execution priority than callbacks
 
 ⚠️ **Starvation**: If Microtask Queue keeps filling, Callback Queue functions may never execute.
+
+---
+
+### Observation of Eventloop, Callback Queue & Microtask Queue [**GiF**]
+
+![microtask 1 Demo](/assets/microtask1.gif)
+![microtask 2 Demo](/assets/microtask2.gif)
+![microtask 3 Demo](/assets/microtask3.gif)
+![microtask 4 Demo](/assets/microtask4.gif)
+![microtask 5 Demo](/assets/microtask5.gif)
+![microtask 6 Demo](/assets/microtask6.gif)
 
 ---
 
