@@ -125,6 +125,33 @@ console.log("End");
 - `cbT()` (from setTimeout) waits in **Callback Queue**.
 - **Microtask Queue > Callback Queue** (Higher priority)
 
+
+#### 🔍 What happens?
+
+1. **"Start"** is logged immediately.
+2. `setTimeout(..., 0)` registers the callback `cbT` in the **Callback Queue**.
+3. `Promise.resolve().then(cbP)` registers `cbP` in the **Microtask Queue**.
+4. **"End"** is logged next, since it's synchronous.
+5. **Event Loop** now steps in:
+   - It sees that the **Call Stack is empty**.
+   - It checks **Microtask Queue first**, finds `cbP`, and executes it.
+     - Logs: `"CB Promise"`
+   - Then it checks **Callback Queue**, finds `cbT`, and executes it.
+     - Logs: `"CB Timeout"`
+
+#### ✅ Final Output:
+
+```
+Start
+End
+CB Promise
+CB Timeout
+```
+
+This proves that:
+- Even if `setTimeout` has `0ms` delay, it still goes to the **Callback Queue**.
+- **Microtasks** (like `.then()`) have **higher priority** and get executed **first**.
+
 ---
 
 ## 🧵 Microtask Queue vs Callback Queue
@@ -171,54 +198,5 @@ console.log("End");
 - **Microtask Queue** (Promises, MutationObserver) has **higher priority** than Callback Queue.
 - Use `removeEventListener` and cleanup to avoid memory leaks due to closures.
 - JS is async-capable because of its runtime environment and browser support — not because of JS itself!
-
----
-
-
----
-
-### 🔄 Multiple Callback Demo – Microtask vs Callback Queue
-
-Let’s break down the example:
-
-```js
-console.log("Start");
-
-setTimeout(function cbT() {
-  console.log("CB Timeout");
-}, 0);
-
-Promise.resolve().then(function cbP() {
-  console.log("CB Promise");
-});
-
-console.log("End");
-```
-
-#### 🔍 What happens?
-
-1. **"Start"** is logged immediately.
-2. `setTimeout(..., 0)` registers the callback `cbT` in the **Callback Queue**.
-3. `Promise.resolve().then(cbP)` registers `cbP` in the **Microtask Queue**.
-4. **"End"** is logged next, since it's synchronous.
-5. **Event Loop** now steps in:
-   - It sees that the **Call Stack is empty**.
-   - It checks **Microtask Queue first**, finds `cbP`, and executes it.
-     - Logs: `"CB Promise"`
-   - Then it checks **Callback Queue**, finds `cbT`, and executes it.
-     - Logs: `"CB Timeout"`
-
-#### ✅ Final Output:
-
-```
-Start
-End
-CB Promise
-CB Timeout
-```
-
-This proves that:
-- Even if `setTimeout` has `0ms` delay, it still goes to the **Callback Queue**.
-- **Microtasks** (like `.then()`) have **higher priority** and get executed **first**.
 
 ---
