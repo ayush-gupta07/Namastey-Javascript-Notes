@@ -99,7 +99,7 @@ z(); // 7, 900
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=qikxEIxsXco&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/qikxEIxsXco/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=qikxEIxsXco&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/qikxEIxsXco/0.jpg" 
 alt="Closure in JS Youtube Link"/></a>
 
 ---

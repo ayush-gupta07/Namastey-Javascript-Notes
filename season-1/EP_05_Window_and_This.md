@@ -75,7 +75,7 @@ console.log(this.x === window.x); // true
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=QCRpVw2KXf8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/QCRpVw2KXf8/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=QCRpVw2KXf8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/QCRpVw2KXf8/0.jpg" 
 alt="Shortest JS Program, window & this keyword Youtube Link"/></a>
 
 ---

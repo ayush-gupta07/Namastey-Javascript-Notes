@@ -177,7 +177,7 @@ A: Yes, JavaScript supports first-class functions.
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=SHINoHxvTso&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/SHINoHxvTso/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=SHINoHxvTso&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/SHINoHxvTso/0.jpg" 
 alt="First Class Functions ft. Anonymous Functions in JS Youtube Link"/></a>
 
 ---

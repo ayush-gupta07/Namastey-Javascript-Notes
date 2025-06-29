@@ -88,7 +88,7 @@ Occurs when:
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=BNC6slYCj50&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/BNC6slYCj50/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=BNC6slYCj50&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/BNC6slYCj50/0.jpg" 
 alt="let & const in JS, Temporal Dead Zone Youtube Link"/></a>
 
 ---

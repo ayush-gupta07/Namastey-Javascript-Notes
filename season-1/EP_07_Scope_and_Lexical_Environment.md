@@ -135,7 +135,7 @@ function outer() {
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=uH-tVP8MUs8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/uH-tVP8MUs8/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=uH-tVP8MUs8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/uH-tVP8MUs8/0.jpg"
 alt="The Scope Chain, Scope & Lexical Environment Youtube Link"/></a>
 
 ---

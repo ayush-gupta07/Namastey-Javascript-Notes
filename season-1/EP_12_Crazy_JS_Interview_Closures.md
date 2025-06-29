@@ -229,7 +229,7 @@ y();
 
 ## 📺 Watch Episode on YouTube
 
-<a href="https://www.youtube.com/watch?v=t1nFAMws5FI&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/t1nFAMws5FI/0.jpg" width="750"
+<a href="https://www.youtube.com/watch?v=t1nFAMws5FI&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/t1nFAMws5FI/0.jpg" 
 alt="Closures Interview Question in JS Youtube Link"/></a>
 
 ---
