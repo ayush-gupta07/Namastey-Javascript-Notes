@@ -95,12 +95,6 @@ Includes a **Garbage Collector**:
 
 ---
 
-## 📺 Watch Episode on YouTube
-
-[![Watch Episode 16 on YouTube](https://img.youtube.com/vi/2WJL19wDH68/0.jpg)](https://www.youtube.com/watch?v=2WJL19wDH68&ab_channel=AkshaySaini)
-
----
-
 ## 🔁 Summary of Key Concepts
 
 - JavaScript engines like **V8** power the execution of JS in browsers.
@@ -108,3 +102,11 @@ Includes a **Garbage Collector**:
 - JS uses **JIT Compilation** for both performance and flexibility.
 - V8's architecture includes: **Ignition**, **TurboFan**, and **Orinoco** GC.
 - Understanding internals helps write better performing code.
+
+---
+
+## 📺 Watch Episode on YouTube
+
+[![Watch Episode 16 on YouTube](https://img.youtube.com/vi/2WJL19wDH68/0.jpg)](https://www.youtube.com/watch?v=2WJL19wDH68&ab_channel=AkshaySaini)
+
+---
