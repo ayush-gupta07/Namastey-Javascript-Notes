@@ -85,3 +85,10 @@ Occurs when:
 **Answer:** Declare and initialize variables at the beginning of their scope.
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=BNC6slYCj50&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/BNC6slYCj50/0.jpg" width="750"
+alt="let & const in JS, Temporal Dead Zone Youtube Link"/></a>
+
+---

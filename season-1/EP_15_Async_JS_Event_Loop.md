@@ -212,3 +212,10 @@ This proves that:
 - JS is async-capable because of its runtime environment and browser support — not because of JS itself!
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=8zKuNo4ay8E&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/8zKuNo4ay8E/0.jpg" width="750"
+alt="Asynchronous JavaScript & EVENT LOOP from scratch in JS Youtube Link"/></a>
+
+---

@@ -160,3 +160,12 @@ Namaste JS
 
 - Always use `let` or `const` in loops with async calls like `setTimeout`.
 - Understand how closures capture **references**, not **values**.
+
+---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=eBTBG4nda2A&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/eBTBG4nda2A/0.jpg" width="750"
+alt="setTimeout + Closures Interview Question in JS Youtube Link"/></a>
+
+---

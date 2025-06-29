@@ -92,3 +92,12 @@ console.log(a); // Prints 10
 - The execution has two phases: **memory creation** and **code execution**.
 - JavaScript is **single-threaded** and **synchronous**, meaning it runs one command at a time in a defined order.
 - Understanding Execution Context is crucial for grasping advanced concepts like hoisting, closures, scope, and async handling.
+
+---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" target="_blank"><img src="https://img.youtube.com/vi/ZvbzSrg0afE/0.jpg" width="750"
+alt="Execution Context Youtube Link"/></a>
+
+---

@@ -96,3 +96,10 @@ z(); // 7, 900
 **Answer:** They preserve variable state across async operations like `setTimeout`, `fetch`, or event listeners.
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=qikxEIxsXco&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/qikxEIxsXco/0.jpg" width="750"
+alt="Closure in JS Youtube Link"/></a>
+
+---

@@ -176,3 +176,12 @@ A: It allows for data encapsulation and prevents global variable leaks.
 
 **Q: Why should we remove event listeners?**  
 A: To prevent memory leaks and ensure unused closures are garbage collected.
+
+---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=btj35dh3_U8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/btj35dh3_U8/0.jpg" width="750"
+alt="Callback Functions in JS ft. Event Listeners in JS Youtube Link"/></a>
+
+---

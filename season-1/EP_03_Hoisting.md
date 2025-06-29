@@ -83,3 +83,10 @@ var myFunc = function () {};
 **Answer:** It happens due to the memory allocation step in the execution context creation phase.
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=Fnlnw8uY6jo&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/Fnlnw8uY6jo/0.jpg" width="750"
+alt="Hoisting Youtube Link"/></a>
+
+---

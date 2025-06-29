@@ -117,3 +117,10 @@ console.log(square4); // 16
 **Answer:** When the function returns (completes execution), the context is popped off the Call Stack.
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=iLWTnMzWtj4&t=1s&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/iLWTnMzWtj4/0.jpg" width="750"
+alt="How JS is executed & Call Stack Youtube Link"/></a>
+
+---

@@ -73,3 +73,10 @@ console.log(a); // ❗ Uncaught ReferenceError: a is not defined
 **Answer:** No. It’s best to let JavaScript handle it during memory allocation.
 
 ---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=B7iF6G3EyIk&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/B7iF6G3EyIk/0.jpg" width="750"
+alt="undefined vs not defined in JS Youtube Link"/></a>
+
+---

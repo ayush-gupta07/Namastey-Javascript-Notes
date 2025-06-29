@@ -172,3 +172,12 @@ A: No, it results in a syntax error if used standalone. It must be part of an ex
 
 **Q: Can functions be passed or returned?**  
 A: Yes, JavaScript supports first-class functions.
+
+---
+
+## 📺 Watch Episode on YouTube
+
+<a href="https://www.youtube.com/watch?v=SHINoHxvTso&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/SHINoHxvTso/0.jpg" width="750"
+alt="First Class Functions ft. Anonymous Functions in JS Youtube Link"/></a>
+
+---
