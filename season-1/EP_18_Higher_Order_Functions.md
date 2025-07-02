@@ -1,4 +1,4 @@
-# Episode 18: Higher-Order Functions ft. Functional Programming
+# 📘 Episode 18: Higher-Order Functions ft. Functional Programming
 
 > Higher-order functions are a powerful feature of JavaScript that enable functional programming. They improve modularity, reusability, and expressiveness.
 

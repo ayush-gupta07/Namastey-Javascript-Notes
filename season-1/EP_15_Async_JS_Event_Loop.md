@@ -1,4 +1,4 @@
-# 🔄 Episode 15: Asynchronous JavaScript & Event Loop from Scratch
+# 📘 Episode 15: Asynchronous JavaScript & Event Loop from Scratch
 
 > 🧠 _"Call Stack executes any execution context that enters it. Time, tide, and JavaScript wait for none."_  
 > 📌 TL;DR — Call Stack has **no timer**!

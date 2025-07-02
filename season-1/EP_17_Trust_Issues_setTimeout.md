@@ -1,4 +1,4 @@
-# 📺 Episode 17: Trust Issues with `setTimeout()`
+# 📘 Episode 17: Trust Issues with `setTimeout()`
 
 ---
 

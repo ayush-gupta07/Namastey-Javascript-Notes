@@ -1,4 +1,4 @@
-# Episode 11: setTimeout + Closures Interview Questions
+# 📘 Episode 11: setTimeout + Closures Interview Questions
 
 ## 🧠 Topic Summary
 

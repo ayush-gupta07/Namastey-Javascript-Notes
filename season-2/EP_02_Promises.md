@@ -1,4 +1,4 @@
-# 📦 Episode 21: Promises – Mastering Asynchronous JavaScript
+# 📘 Episode 21: Promises – Mastering Asynchronous JavaScript
 
 > Promises are powerful constructs in JavaScript used to handle asynchronous operations cleanly and effectively.
 

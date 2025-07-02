@@ -1,4 +1,4 @@
-# Episode 16 : JS Engine Exposed, Google's V8 Architecture
+# 📘 Episode 16 : JS Engine Exposed, Google's V8 Architecture
 
 JavaScript can run anywhere – from your browser to IoT devices – thanks to the **JavaScript Runtime Environment (JRE)**.
 

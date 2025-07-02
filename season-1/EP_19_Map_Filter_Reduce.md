@@ -1,4 +1,4 @@
-# Episode 19: map, filter & reduce
+# 📘 Episode 19: map, filter & reduce
 
 > `map`, `filter`, and `reduce` are Higher-Order Functions in JavaScript.
 
