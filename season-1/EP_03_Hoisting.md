@@ -41,7 +41,7 @@ function getName() {
 
 Accessing a variable before assignment:
 ```js
-console.log(x); // undefined
+console.log(x); // undefined.
 var x = 7;
 ```
 Here, `x` is hoisted and initialized with `undefined`, so no error occurs.
