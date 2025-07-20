@@ -99,5 +99,4 @@ console.log(a); // Prints 10
 
 <a href="https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" target="_blank"><img src="https://img.youtube.com/vi/ZvbzSrg0afE/0.jpg"
 alt="Execution Context Youtube Link"/></a>
-
 ---
