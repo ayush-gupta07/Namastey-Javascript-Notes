@@ -151,35 +151,6 @@ console.log([] + {} == {} + []); // false
 
 ---
 
-## 🔧 Internal Conversion Mechanisms
-
-### ToPrimitive Algorithm
-```js
-let obj = {
-  [Symbol.toPrimitive](hint) {
-    if (hint === 'number') return 42;
-    if (hint === 'string') return 'hello';
-    return 'default';
-  }
-};
-
-console.log(+obj); // 42 (number hint)
-console.log(`${obj}`); // "hello" (string hint)
-```
-
-### valueOf() and toString()
-```js
-let customObj = {
-  valueOf() { return 100; },
-  toString() { return "custom"; }
-};
-
-console.log(+customObj); // 100 (valueOf called)
-console.log(String(customObj)); // "custom" (toString called)
-```
-
----
-
 ## 🌟 Falsy and Truthy Values
 
 ```js
@@ -233,17 +204,6 @@ console.log([1] == [1]); // false (reference comparison)
 3. **Use `Number()`, `String()`, `Boolean()`** instead of relying on implicit coercion
 4. **Be careful with `+` operator** - use `String()` for concatenation if needed
 5. **Test edge cases** when working with user input or external data
-
-```js
-// Good practices
-const userInput = "42";
-const num = Number(userInput); // Explicit
-const isValid = userInput !== ""; // Strict comparison
-
-// Avoid
-const badNum = +userInput; // Implicit and less clear
-const badCheck = userInput == ""; // Loose comparison
-```
 
 ---
 
