@@ -1,4 +1,4 @@
-# 📘 Episode: `call()`, `apply()`, and `bind()` in JavaScript
+# 📘 Episode 01: `call()`, `apply()`, and `bind()` in JavaScript
 
 > Master how to explicitly control the value of `this` using `call`, `apply`, and `bind`.
 

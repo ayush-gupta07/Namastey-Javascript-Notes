@@ -1,4 +1,4 @@
-# 🧠 Episode: Type Conversion and Type Coercion
+# 🧠 Episode 14: Type Conversion and Type Coercion
 
 This chapter explains how JavaScript performs type conversion (explicit) and type coercion (implicit) in different scenarios.
 
