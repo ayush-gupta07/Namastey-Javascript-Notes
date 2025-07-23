@@ -100,4 +100,10 @@ If this repository helped you:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 > 📌 _Every note here contains all **minute** details, behavior explanations, and **interview prep** insights. Master JavaScript with clarity._ 💯
