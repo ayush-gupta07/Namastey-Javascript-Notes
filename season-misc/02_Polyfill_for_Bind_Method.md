@@ -190,41 +190,6 @@ boundIntroduce(25, "Mumbai");
 
 ---
 
-## 🧪 Complete Test Example
-
-```js
-var obj = { name: "Ayush" };
-
-function sayHello(age) {
-    console.log("Hello, " + this.name + " " + age);
-}
-
-// Testing all polyfills
-console.log("=== Testing myCall ===");
-sayHello.myCall(obj, 25);
-
-console.log("=== Testing myApply ===");
-sayHello.myApply(obj, [25]);
-
-console.log("=== Testing myBind ===");
-const boundSayHello = sayHello.myBind(obj);
-boundSayHello(25);
-```
-
-**Output:**
-```
-=== Testing myCall ===
-Hello, Ayush 25
-
-=== Testing myApply ===
-Hello, Ayush 25
-
-=== Testing myBind ===
-Hello, Ayush 25
-```
-
----
-
 ## 🚀 Enhanced Polyfill for `bind()` (Production Ready)
 
 ### 📝 Advanced Implementation
