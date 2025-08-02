@@ -92,9 +92,9 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 If this repository helped you:
 
-- ⭐ Star the repo  
-- 🧠 Revise from it before your next interview  
-- 🧑‍💻 Share it with others learning JavaScript
+- ⭐ Star the repo.  
+- 🧠 Revise from it before your next interview.  
+- 🧑‍💻 Share it with others learning JavaScript.
 
 > _"Learning JavaScript isn't just about code—it's about understanding what happens behind the scenes."_  
 
