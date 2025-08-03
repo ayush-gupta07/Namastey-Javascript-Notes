@@ -1,4 +1,4 @@
-# 📘 Episode: Debouncing in JavaScript
+# 📘 Episode 4: Debouncing in JavaScript
 
 ## 🧠 Overview
 
