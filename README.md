@@ -58,6 +58,26 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 ---
 
+### 📌 <ins>Season Misc</ins>
+
+- [Episode 1: call(), apply(), and bind() Methods](./season-misc/01_Call_Apply_Bind_Method.md)
+- [Episode 2: Polyfills for call(), apply(), and bind() Methods](./season-misc/02_Polyfill_for_Bind_Method.md)
+- [Episode 3: Currying in JavaScript](./season-misc/03_Currying_in_Javascript.md)
+- [Episode 4: Debouncing in JavaScript](./season-misc/04_Debouncing_in_Javascript.md)
+- [Episode 5: Async vs Defer Attributes](./season-misc/05_Async_vs_Defer_Attributes.md)
+- [Episode 6: Event Bubbling, Capturing & Trickling](./season-misc/06_Event_Bubbling_Capturing_Trickling.md)
+- [Episode 7: Event Delegation](./season-misc/07_Event_Delegation.md)
+- [Episode 8: Sum Currying Function](./season-misc/08_Sum_Currying_Function.md)
+- [Episode 9: Prototype and Prototypal Inheritance](./season-misc/09_Prototype_and_Prototypal_Inheritance.md)
+- [Episode 10: CORS and Preflight Request](./season-misc/10_CORS_and_Preflight_Request.md)
+- [Episode 11: Debouncing vs Throttling](./season-misc/11_Debouncing_vs_Throttling.md)
+- [Episode 12: Throttling in JavaScript](./season-misc/12_Throttling_in_Javascript.md)
+- [Episode 13: Local and Session Storage](./season-misc/13_Local_and_Session_Storage.md)
+- [Episode 14: Type Conversion and Coercion](./season-misc/14_type_conversion_and_Coercion.md)
+- [Episode 15: Polyfills for map(), filter(), reduce()](./season-misc/15_Polyfill_Map_Filter_Reduce.md)
+
+---
+
 ## 💡 How to Use This Repo
 
 1. Clone or download this repository.
