@@ -58,7 +58,7 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 ---
 
-### 📌 <ins>Season Misc</ins>
+### 📌 <ins>Season Misc (Other JS Topics)</ins>
 
 - [Episode 1: call(), apply(), and bind() Methods](./season-misc/01_Call_Apply_Bind_Method.md)
 - [Episode 2: Polyfills for call(), apply(), and bind() Methods](./season-misc/02_Polyfill_for_Bind_Method.md)
