@@ -1,7 +1,5 @@
 # 🧠 Episode 9 : Prototype & Prototypal Inheritance in JavaScript
 
----
-
 ## 🔍 What is `Array.prototype`?
 
 - `Array.prototype` is the object from which all array instances inherit their methods like `.push()`, `.map()`, `.filter()`, etc.

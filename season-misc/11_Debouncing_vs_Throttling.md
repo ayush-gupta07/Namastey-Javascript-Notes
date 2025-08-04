@@ -1,7 +1,5 @@
 # 📦 Episode 11: Debouncing vs Throttling in JavaScript
 
----
-
 ## 🔍 Overview
 
 When building performant and responsive applications, especially in web development, **debouncing** and **throttling** are two essential techniques for rate-limiting function calls, particularly for **event-driven** interactions like scrolling, resizing, or typing.
