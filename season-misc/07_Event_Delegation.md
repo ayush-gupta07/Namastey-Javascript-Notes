@@ -1,4 +1,4 @@
-# 📌 JavaScript Episode: Event Delegation
+# 📌 Episode 7: Event Delegation
 
 Event delegation is a powerful JavaScript technique that leverages **event propagation** (bubbling) to handle events more efficiently, especially when dealing with large numbers of child elements.
 
