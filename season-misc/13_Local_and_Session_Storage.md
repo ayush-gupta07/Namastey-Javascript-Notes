@@ -1,7 +1,5 @@
 # 🗃️ Episode 13: JavaScript Storage: `localStorage` vs `sessionStorage` vs Cookies
 
----
-
 ## 📦 What is `localStorage`?
 
 - A web storage API for storing **key-value pairs** in the **browser**.
