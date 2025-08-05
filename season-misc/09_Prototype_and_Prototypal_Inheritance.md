@@ -117,3 +117,6 @@ console.log(arr.hasOwnProperty); // from Object.prototype
 - Understanding prototypes helps in debugging inheritance issues and optimizing object design.
 
 ---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=wstwjQ1yqWQ&pp=0gcJCcMJAYcqIYzv)

@@ -254,3 +254,6 @@ Array.prototype.myMapAdvanced = function(callback, thisArg) {
 **Answer:** It handles sparse arrays (arrays with missing elements) properly, skipping undefined slots.
 
 ---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=dGq0gi0wv64&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=4&ab_channel=RoadsideCoder)

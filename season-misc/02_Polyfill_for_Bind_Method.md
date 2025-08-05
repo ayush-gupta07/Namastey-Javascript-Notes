@@ -249,4 +249,5 @@ Function.prototype.myBind = function(context = {}, ...args) {
 
 ---
 
-
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=ke_y6z0xRpk&t=12s)

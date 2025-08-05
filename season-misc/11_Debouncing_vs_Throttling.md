@@ -115,3 +115,7 @@ function throttle(func, interval = 300) {
 Debounce:     -------> [Event][Event][Event] ----> [Fire Once after delay]
 Throttle:     [Fire][----Ignore---][Fire][---Ignore---][Fire]
 ```
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=tJhA0DrH5co)

@@ -105,3 +105,6 @@ document.getElementById("parentList").addEventListener("click", function (event)
 - Use delegation for dynamic or large sets of elements.
 
 ---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=3KJI1WZGDrg)

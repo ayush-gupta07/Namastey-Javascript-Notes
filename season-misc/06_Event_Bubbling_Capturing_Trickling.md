@@ -142,3 +142,8 @@ document.querySelector("ul").addEventListener("click", (e) => {
 - Think of a stone dropped in water:
   - Capturing: ripples going inward
   - Bubbling: ripples going outward
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=aVSf0b1jVKk)
