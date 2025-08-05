@@ -136,3 +136,8 @@ console.log(+sum(1)(2)(3)); // 6
 - `return function` is crucial to enable chaining.
 - Always provide a **termination condition**.
 - Prefer `typeof b !== "undefined"` over `if (b)` to handle edge cases like `0`.
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=D5ENjfSkHY4)

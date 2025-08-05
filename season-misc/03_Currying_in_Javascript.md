@@ -383,3 +383,8 @@ const partialAdd = (a, b) => (c) => a + b + c;
 - **Readability**: While powerful, excessive currying can hurt code readability
 - **Browser Support**: Arrow functions and spread operators require modern JavaScript support
 - **Memory**: Each curried function creates closures that hold references to variables
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=vQcCNpuaJO8)

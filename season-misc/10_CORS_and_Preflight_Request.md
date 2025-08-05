@@ -151,3 +151,8 @@ app.use(cors({ origin: 'https://yourdomain.com' }));
 ## 📚 Real-World Tip
 
 If you're developing locally and testing APIs from another domain, use a **proxy server** or enable CORS for `localhost` in your API config temporarily.
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=tcLW5d0KAYE)

@@ -99,4 +99,7 @@ Yes, you can create a throttling version using `setTimeout` instead of `Date.now
 
 > Think of **debouncing** as someone waiting until you're done typing, while **throttling** is someone who only listens to you once every few seconds no matter how much you speak.
 
----
+--
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=81NGEXAaa3Y&pp=0gcJCcMJAYcqIYzv)

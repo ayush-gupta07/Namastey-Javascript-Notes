@@ -100,3 +100,8 @@ When the browser starts rendering a webpage:
 - `async` is non-blocking but unordered.
 - `defer` is non-blocking **and** ordered.
 - Always choose based on **script dependency and timing** needs.
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=IrHmpdORLu8)

@@ -248,3 +248,8 @@ Type coercion is tricky and powerful in JavaScript. It’s essential to understa
 5. **Objects are always truthy**: But their primitive conversion can be falsy
 6. **`null` and `undefined` special cases**: They only equal each other with `==`
 7. **Always prefer explicit conversion** for predictable code
+
+---
+
+## 🎥 Watch This Topic on YouTube
+## [Watch on YouTube](https://www.youtube.com/watch?v=wFiVtqe1osM&ab_channel=Telusko)
