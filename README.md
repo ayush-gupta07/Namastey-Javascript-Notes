@@ -18,7 +18,7 @@ This repository is your one-stop destination to understand JavaScript from scrat
 
 ---
 
-## 📚 Episodes Covered.
+## 📚 Episodes Covered
 
 > 🔎 All notes include detailed breakdowns + commented code + interview Q&A
 
