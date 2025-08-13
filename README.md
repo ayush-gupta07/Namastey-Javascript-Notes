@@ -1,4 +1,4 @@
-# 📒 Namaste JavaScript Notes — Handcrafted by Me! 🚀
+# 📒 Namaste JavaScript Notes — Handcrafted by Me!! 🚀
 
 > ✍️ A complete and deeply detailed personal companion to the legendary [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1) series by **Akshay Saini**  
 > 🧠 These are **my handwritten learnings**—digitally converted into **well-structured GitHub README files** with **interview Q&A**, real-world examples, and code clarity.
