@@ -127,3 +127,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 > 📌 _Every note here contains all **minute** details, behavior explanations, and **interview prep** insights. Master JavaScript with clarity._ 💯
+
+---
